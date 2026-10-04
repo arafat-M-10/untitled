@@ -11,10 +11,9 @@ public class Main {
         double base = (1 + (r/100));
         double result = Math.pow(base, n);
         double total = s * result;
-jjjjjjjjjjjj
+
         System.out.printf("Final stength score after %d months : %.2f",n,total);
 
 
         scanner.close();
-    }//joy tumi vlo nahhjjjjjjjjjjj
-}
+    }
